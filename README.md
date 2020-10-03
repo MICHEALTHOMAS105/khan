@@ -1,1 +1,3 @@
-# khan
+# Khan
+
+One Man Army == Khan
